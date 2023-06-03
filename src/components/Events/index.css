@@ -1,0 +1,21 @@
+.app-container {
+  min-height: 100vh;
+  padding: 0px;
+  display: flex;
+}
+.events-container {
+  width: 50%;
+  padding: 20px;
+  background-color: #475569;
+}
+.events-list-container {
+  width: 100%;
+  padding: 0px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.events-heading {
+  color: #f8fafc;
+  font-family: 'Roboto';
+}
